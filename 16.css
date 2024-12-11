@@ -1,0 +1,10 @@
+body {
+    background-image: url(cenario.png);
+}
+
+#ursinho {
+    position: fixed;
+    width: 100px;
+    left: 0;
+    top: 60%;
+}
